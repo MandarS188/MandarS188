@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MandarS188
-- 👀 I’m interested in 
+- 👋 Hi, I’m Mandar Sawant
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
